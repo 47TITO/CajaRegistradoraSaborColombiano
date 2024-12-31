@@ -1,4 +1,4 @@
-# SaborColombiano
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -140,17 +140,17 @@
 
     <script>
         const productos = [
-            { nombre: "Bandeja Paisa", precio: 150000, imagen: "imagenes/Bandeja_paisa.png" },
-            { nombre: "Arepa con queso", precio: 100000, imagen: "imagenes/Arepa_con_queso.png" },
-            { nombre: "Papa Rellena", precio: 120000, imagen: "imagenes/Papa_rellena.png.png" },
-            { nombre: "Pollo Crispy", precio: 140000, imagen: "imagenes/Pollo_crispy.png.png" },
-            { nombre: "Picada", precio: 160000, imagen: "imagenes/Picada.png.png" },
-            { nombre: "Tintico", precio: 100000, imagen: "imagenes/Tintico.png.png" },
-            { nombre: "Jugo de Maracuya", precio: 100000, imagen: "imagenes/Jugo_maracuya.png.png" },
-            { nombre: "Pony Malta", precio: 100000, imagen: "imagenes/Pony_malta.png.png" },
-            { nombre: "Arroz con leche", precio: 120000, imagen: "imagenes/arroz_con_leche.png" },
-            { nombre: "Aguardiente", precio: 160000, imagen: "imagenes/Aguardiente.png" },
-            { nombre: "Caja sorpresa", precio: 3000000, imagen: "imagenes/Caja_Sorpresa.png.png" }
+            { nombre: "Bandeja Paisa", precio: 150000, imagen: "Imagenes/Bandeja_paisa.png" },
+            { nombre: "Arepa con queso", precio: 100000, imagen: "Imagenes/Arepa_con_queso.png" },
+            { nombre: "Papa Rellena", precio: 120000, imagen: "Imagenes/Papa_rellena.png.png" },
+            { nombre: "Pollo Crispy", precio: 140000, imagen: "Imagenes/Pollo_crispy.png.png" },
+            { nombre: "Picada", precio: 160000, imagen: "Imagenes/Picada.png.png" },
+            { nombre: "Tintico", precio: 100000, imagen: "Imagenes/Tintico.png.png" },
+            { nombre: "Jugo de Maracuya", precio: 100000, imagen: "Imagenes/Jugo_maracuya.png.png" },
+            { nombre: "Pony Malta", precio: 100000, imagen: "Imagenes/Pony_malta.png.png" },
+            { nombre: "Arroz con leche", precio: 120000, imagen: "Imagenes/arroz_con_leche.png" },
+            { nombre: "Aguardiente", precio: 160000, imagen: "Imagenes/Aguardiente.png" },
+            { nombre: "Caja sorpresa", precio: 3000000, imagen: "Imagenes/Caja_Sorpresa.png.png" }
         ];
 
         let total = 0;
